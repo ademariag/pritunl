@@ -1,5 +1,3 @@
-#mongodb-org-4.0.list
-deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.0 multiverse
 #pritunl.list
 deb http://repo.pritunl.com/stable/apt xenial main
 
